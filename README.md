@@ -1,18 +1,25 @@
 # DS-Algorithms
 
 ### TOPICS
-* [Mathematics][1]
-* [Bitwise Algorithms][2]
-* [Recursion][3]
-* [Arrays][4]
-* [Searching][5]
-* [Sorting][6]
-* [Matrix][7]
-* [Hashing][8]
-* [Strings][9]
+1. [Mathematics][1]
+2. [Bitwise Algorithms][2]
+3. [Recursion][3]
+4. [Arrays][4]
+5. [Searching][5]
+6. [Sorting][6]
+7. [Matrix][7]
+8. [Hashing][8]
+9. [Strings][9]
 
 [1]:#Mathematics
 [2]:#Bitwise-Algorithms
+[3]:#Recursion
+[4]:#Arrays
+[5]:#Searching
+[6]:#Sorting
+[7]:#Matrix
+[8]:#Hashing
+[9]:#Strings
 
 ## Mathematics
 Name | Solution | Date
