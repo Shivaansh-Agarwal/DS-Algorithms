@@ -30,8 +30,9 @@ Name | Solution | Date
 --- | --- | ---
 Given a number N check if the k'th bit is set or not | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/01%20Check%20kth%20bit%20is%20set%20or%20not.cpp) | 20-05-19
 Given a number N determine whether it is even or odd | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/02.cpp) | 20-05-19
-Given a number N, determine whether it is a power of 2 or not | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/03.cpp) | 20-05-19
-Given a number N, determine the number of set bits | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/04.cpp) | 20-05-19
+Given a number N determine whether it is a power of 2 or not | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/03.cpp) | 20-05-19
+Given a number N determine the number of set bits | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/04.cpp) | 20-05-19
+Given an array that contains every element even number of times, except one element. Find that number. | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/05.cpp) | 20-05-19
 
 ## Recursion
 Name | Solution | Date
