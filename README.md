@@ -39,7 +39,7 @@ S.No. | Name | Solution | Date | Articles
 9 | Given a number N determine the position & value of the most significant digit | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/09.cpp) | 21-05-19 | -
 10 | Given a number N determine the XOR of all numbers from 1 to N WITHOUT using Loops | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/10.cpp) | 21-05-19 | [Link](https://www.geeksforgeeks.org/calculate-xor-1-n/)
 11 | Given a number N. Find the count of number of set bits from 1 to N | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/11.cpp) | 21-05-19 | -
-12 | iven two numbers A and B. Count number of bits needed to be flipped to convert A to B | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/12.cpp) | 21-05-19 | -
+12 | Given two numbers A and B. Count number of bits needed to be flipped to convert A to B | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/12.cpp) | 21-05-19 | -
 
 ## Recursion
 S.No. | Name | Solution | Date
