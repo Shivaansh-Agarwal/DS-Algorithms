@@ -22,11 +22,11 @@
 [9]:#Strings
 
 ## Mathematics
-S.No. | Name | Solution | Date
+S.No. | Problem | Solution | Date
 --- | --- | --- | ---
 
 ## Bitwise Algorithms
-S.No. | Name | Solution | Date | Articles
+S.No. | Problem | Solution | Date | Articles
 --- | --- | --- | --- | ---
 1 | Given a number N check if the k'th bit is set or not | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/01.cpp) | 20-05-19 | -
 2 | Given a number N determine whether it is even or odd | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/02.cpp) | 20-05-19 | -
@@ -42,8 +42,19 @@ S.No. | Name | Solution | Date | Articles
 12 | Given two numbers A and B. Count number of bits needed to be flipped to convert A to B | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Bitwise%20Algorithms/12.cpp) | 21-05-19 | -
 
 ## Recursion
-S.No. | Name | Solution | Date
---- | --- | --- | ---
+S.No. | Problem | Solution | Date | Articles
+--- | --- | --- | --- | ---
+1 | Print numbers from 1 to N without using Loop |  | 22-05-19 | -
+2 | Print numbers from N to 1 without using Loop |  | 22-05-19 | -
+3 | Factorial |  | 22-05-19 | -
+4 | Factorial with Tail Recursion |  | 22-05-19 | -
+5 | Given a rope of length n and 3 values (a,b,c), we need to make maximum pieces such that every piece has length in set {a,b,c} |  | 22-05-19 | -
+6 | Josephus Problem |  | 22-05-19 | -
+7 | Print all subsets of a given set (string) |  | 22-05-19 | -
+8 | Given an integer set and a number, print all subsets whose sum is equal to given number |  | 22-05-19 | -
+9 | Given an unsorted array of N elements and an element X. The task is to write a recursive function to check whether the element X is present in the given array or not. |  | 22-05-19 | -
+10 | Given a string, the task is to write a recursive function to check if the given string is palindrome or not. |  | 22-05-19 | -
+11 | Tower of Hanoi |  | 22-05-19 | -
 
 ## Arrays
 S.No. | Name | Solution | Date
