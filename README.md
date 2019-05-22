@@ -44,11 +44,11 @@ S.No. | Problem | Solution | Date | Articles
 ## Recursion
 S.No. | Problem | Solution | Date | Articles
 --- | --- | --- | --- | ---
-1 | Print numbers from 1 to N without using Loop |  | 22-05-19 | -
-2 | Print numbers from N to 1 without using Loop |  | 22-05-19 | -
-3 | Factorial |  | 22-05-19 | -
-4 | Factorial with Tail Recursion |  | 22-05-19 | -
-5 | Given a rope of length n and 3 values (a,b,c), we need to make maximum pieces such that every piece has length in set {a,b,c} |  | 22-05-19 | -
+1 | Print numbers from 1 to N without using Loop | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/01.cpp) | 22-05-19 | -
+2 | Print numbers from N to 1 without using Loop | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/02.cpp) | 22-05-19 | -
+3 | Factorial | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/03.cpp) | 22-05-19 | -
+4 :bulb: | Factorial with Tail Recursion | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/04.cpp) | 22-05-19 | -
+5 :bulb: | Given a rope of length n and 3 values (a,b,c), we need to make maximum pieces such that every piece has length in set {a,b,c} | [Solution](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/05.cpp) | 22-05-19 | -
 6 | Josephus Problem |  | 22-05-19 | -
 7 | Print all subsets of a given set (string) |  | 22-05-19 | -
 8 | Given an integer set and a number, print all subsets whose sum is equal to given number |  | 22-05-19 | -
