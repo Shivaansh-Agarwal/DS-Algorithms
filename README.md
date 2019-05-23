@@ -49,7 +49,7 @@ S.No. | Problem | Solution | Date | References
 3 | Factorial | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/03.cpp) | 22-05-19 | -
 4 :bulb: | Factorial with Tail Recursion | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/04.cpp) | 22-05-19 | -
 5 :bulb: | Given a rope of length n and 3 values (a,b,c), we need to make maximum pieces such that every piece has length in set {a,b,c} | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/05.cpp) | 22-05-19 | -
-6 | Josephus Problem |  | 23-05-19 | [:tv:](https://www.youtube.com/watch?v=fZ3p2Iw-O2I) [:tv:](https://www.youtube.com/watch?v=uCsD3ZGzMgE)
+6 | Josephus Problem | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/06.cpp) | 23-05-19 | [:tv:](https://www.youtube.com/watch?v=fZ3p2Iw-O2I) [:tv:](https://www.youtube.com/watch?v=uCsD3ZGzMgE)
 7 | Print all subsets of a given set (string) |  | 23-05-19 | -
 8 | Given an integer set and a number, print all subsets whose sum is equal to given number |  | 23-05-19 | -
 9 | Given an unsorted array of N elements and an element X. The task is to write a recursive function to check whether the element X is present in the given array or not. |  | 23-05-19 | -
