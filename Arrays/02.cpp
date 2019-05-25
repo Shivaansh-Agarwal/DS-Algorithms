@@ -35,12 +35,12 @@ int main(){
     // Copy the elements of array arr2[d] to the array arr1[n] after the elements which have been shifted.
     int j=0;
     for(int i=n-d;i<n;i++){
-        arr[i] = arr2[j];
+        arr1[i] = arr2[j];
         j++;
     }
     // Printing the elements after rotation
     cout<<"Array after rotation is: ";
     for(int i=0;i<n;i++)
-        cout<<arr[i]<<" ";
+        cout<<arr1[i]<<" ";
     return 0;
 }
