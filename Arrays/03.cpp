@@ -1,4 +1,6 @@
 // Rotating an Array (using Reverse OPeration 3 times)
+// Time Complexity => O(n)
+// Space Complexity => O(1)
 #include<iostream>
 using namespace std;
 void reverse(int *arr, int s, int n){
@@ -27,9 +29,7 @@ int main(){
     cout<<"Enter the value of d: ";
     cin>>d;
     reverse(arr1,0,d);
-    printArray(arr1,n);
     reverse(arr1,d,n);
-    printArray(arr1,n);
     reverse(arr1,0,n);
     cout<<"Array after rotation is: ";
     printArray(arr1,n);
