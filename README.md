@@ -51,14 +51,20 @@ S.No. | Problem | Solution | Date | References
 5 :bulb: | Given a rope of length n and 3 values (a,b,c), we need to make maximum pieces such that every piece has length in set {a,b,c} | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/05.cpp) | 22-05-19 | -
 6 | Josephus Problem | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/06.cpp) | 23-05-19 | [V1](https://www.youtube.com/watch?v=fZ3p2Iw-O2I) [V2](https://www.youtube.com/watch?v=uCsD3ZGzMgE) [A1](https://stackoverflow.com/questions/31775604/explanation-for-recursive-implementation-of-josephus-prob) [A2](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/)
 7 | Print all subsets of a given set (string) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Recursion/07.cpp) | 24-05-19 | -
-8 | Given an integer set and a number, print all subsets whose sum is equal to given number |  | 23-05-19 | -
-9 | Given an unsorted array of N elements and an element X. The task is to write a recursive function to check whether the element X is present in the given array or not. |  | 23-05-19 | -
-10 | Given a string, the task is to write a recursive function to check if the given string is palindrome or not. |  | 23-05-19 | -
-11 | Tower of Hanoi |  | 23-05-19 | -
+8 | Given an integer set and a number, print all subsets whose sum is equal to given number |  |  | -
+9 | Given an unsorted array of N elements and an element X. The task is to write a recursive function to check whether the element X is present in the given array or not. |  |  | -
+10 | Given a string, the task is to write a recursive function to check if the given string is palindrome or not. |  |  | -
+11 | Tower of Hanoi |  |  | -
 
 ## Arrays
-S.No. | Name | Solution | Date | References
+S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Reversing an Array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/01.cpp) | 25-05-19 | -
+2 | Rotating an Array (Naive Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/02.cpp) | 25-05-19 | -
+3 | Rotating an Array (Efficient Method) | [:key](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 | -
+4 | Leaders in an Array (Naive Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/04.cpp) | 25-05-19 | -
+5 | Leaders in an Array (Efficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 25-05-19 | -
+6 | Tapping Rainwater | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
 
 ## Searching
 S.No. | Name | Solution | Date | References
