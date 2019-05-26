@@ -66,6 +66,7 @@ S.No. | Problem | Solution | Date | References
 5 | Leaders in an Array (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 26-05-19 | -
 6 | Tapping Rainwater (Naive Approach) O(n*n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
 7 | Tapping Rainwater (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19 | -
+8 | Stock Buy and Sell | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/08.cpp) | 26-05-19 | -
 
 ## Searching
 S.No. | Name | Solution | Date | References
