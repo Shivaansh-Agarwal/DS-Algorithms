@@ -60,11 +60,12 @@ S.No. | Problem | Solution | Date | References
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Reversing an Array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/01.cpp) | 25-05-19 | -
-2 | Rotating an Array (Naive Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/02.cpp) | 25-05-19 | -
-3 | Rotating an Array (Efficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 | -
-4 | Leaders in an Array (Naive Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/04.cpp) | 25-05-19 | -
-5 | Leaders in an Array (Efficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 25-05-19 | -
-6 | Tapping Rainwater | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
+2 | Rotating an Array (Naive Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/02.cpp) | 25-05-19 | -
+3 | Rotating an Array (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 | -
+4 | Leaders in an Array (Naive Approach) O(n*n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/04.cpp) | 26-05-19 | -
+5 | Leaders in an Array (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 26-05-19 | -
+6 | Tapping Rainwater (Naive Approach) O(n*n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
+7 | Tapping Rainwater (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19 | -
 
 ## Searching
 S.No. | Name | Solution | Date | References
