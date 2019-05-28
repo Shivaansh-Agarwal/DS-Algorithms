@@ -67,7 +67,8 @@ S.No. | Problem | Solution | Date | References
 6 | Tapping Rainwater (Naive Approach) O(n*n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
 7 | Tapping Rainwater (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19 | -
 8 | Stock Buy and Sell | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/08.cpp) | 26-05-19 | -
-9 | Reverse Arrays in Groups | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/09.cpp) | 27-05-19 | -
+9 | Reverse Arrays in Groups ((Naive Approach) O(n*n)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/09.cpp) | 27-05-19 | -
+10 | Reverse Arrays in Groups (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/10.cpp) | 27-05-19 | -
 
 ## Searching
 S.No. | Name | Solution | Date | References
