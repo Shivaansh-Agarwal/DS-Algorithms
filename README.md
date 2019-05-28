@@ -61,15 +61,15 @@ S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Reversing an Array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/01.cpp) | 25-05-19 | -
 2 | Rotating an Array (Naive Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/02.cpp) | 25-05-19 | -
-3 | Rotating an Array (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 | -
+3 :bulb: | Rotating an Array (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 | -
 4 | Leaders in an Array (Naive Approach) O(n^2) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/04.cpp) | 26-05-19 | -
-5 | Leaders in an Array (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 26-05-19 | -
+5 :bulb: | Leaders in an Array (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 26-05-19 | -
 6 | Tapping Rainwater (Naive Approach) O(n^2) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
-7 | Tapping Rainwater (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19 | -
+7 :bulb: | Tapping Rainwater (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19 | -
 8 | Stock Buy and Sell | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/08.cpp) | 26-05-19 | -
 9 | Reverse Arrays in Groups ((Naive Approach) O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/09.cpp) | 27-05-19 | -
 10 | Reverse Arrays in Groups (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/10.cpp) | 27-05-19 | -
-11 | Maximum Occurred Integer in given Ranges | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/11.cpp) | 28-05-19 | -
+11 :bulb: | Maximum Occurred Integer in given Ranges | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/11.cpp) | 28-05-19 | -
 
 ## Searching
 S.No. | Name | Solution | Date | References
