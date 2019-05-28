@@ -13,6 +13,8 @@
     3. In this array arr2 we copy the first d elements of arr1.
     4. After this we need to shift the elements after these first d elements to the beginning
 */
+// Time Complexity => O(n)
+// Space Complexity => O(n+d)
 #include<iostream>
 using namespace std;
 int main(){
