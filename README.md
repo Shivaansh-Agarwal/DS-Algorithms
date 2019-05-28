@@ -70,6 +70,7 @@ S.No. | Problem | Solution | Date | References
 9 | Reverse Arrays in Groups ((Naive Approach) O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/09.cpp) | 27-05-19 | -
 10 | Reverse Arrays in Groups (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/10.cpp) | 27-05-19 | -
 11 :bulb: | Maximum Occurred Integer in given Ranges | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/11.cpp) | 28-05-19 | -
+12 :bulb: | Frequencies of Array elements in a Given Range | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/12.cpp) | 28-05-19 | -
 
 ## Searching
 S.No. | Name | Solution | Date | References
