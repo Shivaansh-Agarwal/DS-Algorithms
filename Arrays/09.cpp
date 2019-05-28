@@ -1,3 +1,13 @@
+// Reverse Array in Groups [Naive Approach Time Complexity => O(n*n)]
+/*
+    Given an array arr[] of positive integers of size N. Reverse sub-array of K-group elements.
+    I/P:                I/P:
+        5 3                 4 3
+        1 2 3 4 5           5 6 8 9
+    // Here n=5 k=3 
+    O/P:                O/P:
+        3 2 1 5 4           8 6 5 9
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
