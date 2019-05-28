@@ -26,7 +26,6 @@ int main(){
     cout<<"Enter the elements in the array: ";
     for(int i=0;i<n;i++)
         cin>>arr[i];
-    
     int max = arr[n-1];
 
     stack<int> s;
