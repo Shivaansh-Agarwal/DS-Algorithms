@@ -73,21 +73,21 @@ S.No. | Problem | Solution | Date | References
 12 :bulb: | Frequencies of Array elements in a Given Range | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/12.cpp) | 28-05-19 | -
 
 ## Searching
-S.No. | Name | Solution | Date | References
+S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 
 ## Sorting
-S.No. | Name | Solution | Date | References
+S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 
 ## Matrix
-S.No. | Name | Solution | Date | References
+S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 
 ## Hashing
-S.No. | Name | Solution | Date | References
+S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 
 ## Strings
-S.No. | Name | Solution | Date | References
+S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
