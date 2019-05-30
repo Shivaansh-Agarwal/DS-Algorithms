@@ -71,6 +71,7 @@ S.No. | Problem | Solution | Date | References
 10 | Reverse Arrays in Groups (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/10.cpp) | 27-05-19 | -
 11 :bulb: | Maximum Occurred Integer in given Ranges | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/11.cpp) | 28-05-19 | -
 12 :bulb: | Frequencies of Array elements in a Given Range | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/12.cpp) | 28-05-19 | -
+13 :bulb: | Given an Array arr of n elements, Find the position of an element of which sum of elements on LHS is equal to sum of elements on RHS | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/13.cpp) | 30-05-19 | -
 
 ## Searching
 S.No. | Problem | Solution | Date | References
