@@ -10,7 +10,7 @@
 7. [Matrix][7]
 8. [Hashing][8]
 9. [Strings][9]
-10. [Linked List][10]
+10. [Linked-List][10]
 
 [1]:#Mathematics
 [2]:#Bitwise-Algorithms
@@ -21,7 +21,7 @@
 [7]:#Matrix
 [8]:#Hashing
 [9]:#Strings
-[10]:#Linked List
+[10]:#Linked-List
 
 ## Mathematics
 S.No. | Problem | Solution | Date | Reference
