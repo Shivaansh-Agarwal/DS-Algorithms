@@ -79,6 +79,7 @@ S.No. | Problem | Solution | Date | References
 ## Searching
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Linear Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/01.cpp) | 01-06-19 | -
 
 ## Sorting
 S.No. | Problem | Solution | Date | References
