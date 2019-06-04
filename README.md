@@ -82,6 +82,7 @@ S.No. | Problem | Solution | Date | References
 1 | Linear Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/01.cpp) | 01-06-19 | -
 2 | Binary Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/02.cpp) | 02-06-19 | -
 3 | Given a Sorted Array, find the number of occurrences of a given number | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/03.cpp) | 03-06-19 | -
+4 | Given a Sorted Binary Array, find the number of 1's in it | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/04.cpp) | 04-06-19 | -
 
 ## Sorting
 S.No. | Problem | Solution | Date | References
