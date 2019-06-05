@@ -86,6 +86,7 @@ S.No. | Problem | Solution | Date | References
 5 | Find Minimum Number in a sorted rotated array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/05.cpp) | 05-06-19 | -
 6 | Find two Repeated elements in an array of size N+2 which contains elements from 1 to N | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/06.cpp) | 05-06-19 | -
 7 | Given a sorted array of N elements which contains consecutive elements, and one element is repeated number of times, Find the number and it's frequency. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/07.cpp) | 05-06-19 | -
+8 | iven an array of size N where all elements are distinct and a number K, Find the K'th smallest element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/08.cpp) | 05-06-19 | -
 
 ## Sorting
 S.No. | Problem | Solution | Date | References
