@@ -84,6 +84,7 @@ S.No. | Problem | Solution | Date | References
 3 | Given a Sorted Array, find the number of occurrences of a given number | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/03.cpp) | 03-06-19 | -
 4 | Given a Sorted Binary Array, find the number of 1's in it | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/04.cpp) | 04-06-19 | -
 5 | Find Minimum Number in a sorted rotated array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/05.cpp) | 05-06-19 | -
+6 | Find two Repeated elements in an array of size N+2 which contains elements from 1 to N | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/05.cpp) | 05-06-19 | -
 
 ## Sorting
 S.No. | Problem | Solution | Date | References
