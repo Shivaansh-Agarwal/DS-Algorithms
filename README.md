@@ -80,13 +80,13 @@ S.No. | Problem | Solution | Date | References
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Linear Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/01.cpp) | 01-06-19 | -
-2 | Binary Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/02.cpp) | 02-06-19 | -
+2 | Binary Search [**Paytm**] | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/02.cpp) | 02-06-19 | -
 3 | Given a Sorted Array, find the number of occurrences of a given number | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/03.cpp) | 03-06-19 | -
 4 | Given a Sorted Binary Array, find the number of 1's in it | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/04.cpp) | 04-06-19 | -
 5 | Find Minimum Number in a sorted rotated array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/05.cpp) | 05-06-19 | -
 6 | Find two Repeated elements in an array of size N+2 which contains elements from 1 to N | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/06.cpp) | 05-06-19 | -
 7 | Given a sorted array of N elements which contains consecutive elements, and one element is repeated number of times, Find the number and it's frequency. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/07.cpp) | 05-06-19 | -
-8 | iven an array of size N where all elements are distinct and a number K, Find the K'th smallest element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/08.cpp) | 05-06-19 | -
+8 | Given an array of size N where all elements are distinct and a number K, Find the K'th smallest element [**Microsoft**, **VMWare**, **Cisco**] | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Searching/08.cpp) | 05-06-19 | -
 
 ## Sorting
 S.No. | Problem | Solution | Date | References
