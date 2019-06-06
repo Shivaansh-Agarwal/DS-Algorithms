@@ -107,3 +107,4 @@ S.No. | Problem | Solution | Date | References
 ## Linked List
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Singly Linked List Implementation | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/01.cpp) | 06-06-19 | -
