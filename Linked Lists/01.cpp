@@ -37,7 +37,43 @@ void insert_at_end(int elem){
 }
 
 void insert_in_btw(int prev,int elem){
+    Node *ptr = head;
+    while(ptr!=NULL){
+        if(ptr->data==prev){
+            Node *new_node = new Node;
+        }
+    }
+}
 
+void remove_from_beg(){
+    head = head->next; 
+}
+
+void remove_from_end(){
+    if(head==NULL){
+        cout<<"Linked List is empty"<<endl;
+    }
+    else if(head->next==NULL){
+        remove_from_beg();
+    }
+    else{
+        Node *ptr = head;
+        while(ptr->next->next!=NULL){
+            ptr = ptr->next;
+        }
+        ptr->next = NULL;
+        tail = ptr;
+    }
+}
+
+void remove_from_between(int elem){
+    Node *ptr = head;
+    while(ptr->next!=NULL){
+        if(ptr->next->data==elem){
+            ptr->next = ptr->next->next;
+            break;
+        }
+    }
 }
 
 void display(){
@@ -51,6 +87,7 @@ void display(){
         cout<<ptr->data<<" ";
         ptr = ptr->next;
     }
+    cout<<endl;
 }
 
 int main(){
@@ -87,6 +124,41 @@ int main(){
                 cout<<"Enter the element to be inserted: ";
                 cin>>elem;
                 insert_in_btw(prev,elem);
+                break;
+            case 4:
+                if(head==NULL){
+                    cout<<"Linked List is empty"<<endl;
+                }
+                else{
+                    remove_from_beg();
+                    cout<<"First Element removed"<<endl;
+                }
+                break;
+            case 5:
+                if(head==NULL){
+                    cout<<"Linked List is Empty"<<endl;
+                }
+                else{
+                    remove_from_end();
+                    cout<<"Last element removed"<<endl;
+                }
+                break;
+            case 6:
+                if(head==NULL){
+                    cout<<"Linked List is Empty"<<endl;
+                }
+                else{
+                    cout<<"Enter the element to be removed: ";
+                    cin>>elem;
+                    if(head->data==elem){
+                        remove_from_beg();
+                    }
+                    else if(tail->data==elem){
+                        remove_from_end();
+                    }
+                    else
+                        remove_from_between(elem);
+                }
                 break;
             case 7:
                 display();
