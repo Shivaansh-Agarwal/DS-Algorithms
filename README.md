@@ -10,7 +10,11 @@
 7. [Matrix][7]
 8. [Hashing][8]
 9. [Strings][9]
-10. [Linked-List][10]
+10. [Linked List][10]
+11. [Stack][11]
+12. [Queue][12]
+13. [Tree][13]
+14. [Binary Search Tree][14]
 
 [1]:#Mathematics
 [2]:#Bitwise-Algorithms
@@ -22,6 +26,10 @@
 [8]:#Hashing
 [9]:#Strings
 [10]:#Linked-List
+[11]:#Stack
+[12]:#Queue
+[13]:#Tree
+[14]:#Binary-Search-Tree
 
 ## Mathematics
 S.No. | Problem | Solution | Date | Reference
@@ -111,3 +119,19 @@ S.No. | Problem | Solution | Date | References
 2 | Middle Element of a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/02.cpp) | 09-06-19 | -
 3 | kth element from the end of a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/03.cpp) | 12-06-19 | -
 4 | Reverse a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/04.cpp) | 12-06-19 | -
+
+## Stack
+S.No. | Problem | Solution | Date | References
+--- | --- | --- | --- | ---
+
+## Queue
+S.No. | Problem | Solution | Date | References
+--- | --- | --- | --- | ---
+
+## Tree
+S.No. | Problem | Solution | Date | References
+--- | --- | --- | --- | ---
+
+## Binary Search Tree
+S.No. | Problem | Solution | Date | References
+--- | --- | --- | --- | ---
