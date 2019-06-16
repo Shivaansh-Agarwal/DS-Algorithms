@@ -118,7 +118,7 @@ S.No. | Problem | Solution | Date | References
 1 | Singly Linked List Implementation | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/01.cpp) | 06-06-19 | -
 2 | Middle Element of a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/02.cpp) | 09-06-19 | -
 3 | kth element from the end of a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/03.cpp) | 15-06-19 | -
-4 | Reverse a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/04.cpp) | 15-06-19 | -
+4 | Reverse a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/04.cpp) | 17-06-19 | -
 5 | - | - | - | -
 
 ## Stack
