@@ -14,8 +14,9 @@ void insert_at_beg(int elem){
     Node *new_node = new Node;
     new_node->data = elem;
     new_node->next = head;
+    if(head==NULL)
+        tail = new_node;
     head = new_node;
-    tail = new_node;
 }
 
 void insert_at_end(int elem){
