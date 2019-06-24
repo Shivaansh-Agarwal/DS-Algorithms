@@ -119,7 +119,8 @@ S.No. | Problem | Solution | Date | References
 2 | Middle Element of a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/02.cpp) | 09-06-19 | -
 3 | kth element from the end of a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/03.cpp) | 15-06-19 | -
 4 | Reverse a Linked List (Iterative Approach)| [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/04.cpp) | 17-06-19 | -
-5 | Reverse a Linked List (Recursive Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/05.cpp) | 17-06-19 | -
+5 | Reverse a Linked List (Recursive Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/05.cpp) | 24-06-19 | -
+6 | Detect Loop in a Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Linked%20Lists/06.cpp) | 25-06-19 | -
 
 ## Stack
 S.No. | Problem | Solution | Date | References
