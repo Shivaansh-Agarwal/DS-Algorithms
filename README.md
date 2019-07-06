@@ -15,6 +15,11 @@
 12. [Queue][12]
 13. [Tree][13]
 14. [Binary Search Tree][14]
+15. [Heap][15]
+16. [Graph][16]
+17. [Greedy][17]
+18. [BackTracking][18]
+19. [Dynamic Programming][19]
 
 [1]:#Mathematics
 [2]:#Bitwise-Algorithms
@@ -30,6 +35,11 @@
 [12]:#Queue
 [13]:#Tree
 [14]:#Binary-Search-Tree
+[15]:#Heap
+[16]:#Graph
+[17]:#Greedy
+[18]:#Backtracking
+[19]:Dynamic-Programming
 
 ## Mathematics
 S.No. | Problem | Solution | Date | Reference
