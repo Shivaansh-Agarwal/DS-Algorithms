@@ -136,6 +136,7 @@ S.No. | Problem | Solution | Date | References
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Stack Implementation using Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/01.cpp) | 10-07-19 | -
+2 | Check for Balanced Parenthesis | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/02.cpp) | 10-07-19 | -
 
 ## Queue
 S.No. | Problem | Solution | Date | References
