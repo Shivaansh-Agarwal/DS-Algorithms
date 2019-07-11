@@ -141,6 +141,8 @@ S.No. | Problem | Solution | Date | References
 ## Queue
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Queue Implementation using Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Queue/01.cpp) | 11-07-19 | -
+
 
 ## Tree
 S.No. | Problem | Solution | Date | References
