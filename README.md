@@ -138,7 +138,8 @@ S.No. | Problem | Solution | Date | References
 1 | Stack Implementation using Linked List | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/01.cpp) | 10-07-19 | -
 2 | Check for Balanced Parenthesis | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/02.cpp) | 10-07-19 | -
 3 | Stack Implementation using Queues | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/03.cpp) | 11-07-19 | -
-4 | Implement 2 Stacks in an array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/04.cpp) | 13-07-19 | -
+4 | Stack Implementation using C++ STL | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/04.cpp) | 14-07-19 | -
+5 | Implement 2 Stacks in an array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/05.cpp) | 14-07-19 | -
 
 ## Queue
 S.No. | Problem | Solution | Date | References
