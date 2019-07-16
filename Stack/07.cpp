@@ -9,6 +9,8 @@
     Ex:
     Consider the following Linked List
     head -> 24 -> 56 -> 54 -> 11 -> 90 -> X
+    
+    O/P: 90 11 54 56 24
  */
 #include<iostream>
 #include<stack>
