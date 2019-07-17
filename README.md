@@ -143,7 +143,7 @@ S.No. | Problem | Solution | Date | References
 6 | Implement n Stacks using 1 Array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/06.cpp) | - | -
 7 | Print Reverse of linked List using Stack | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/07.cpp) | 16-07-19 | -
 8 | Given an array, print the Next Greater Element (NGE) for every element. The Next greater Element for an element x is the first greater element on the right side of x in array. Elements for which no greater element exist, consider next greater element as -1. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/08.cpp) | - | -
-9 | Stock Span Problem | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/09.cpp) | - | -
+9 | Stock Span Problem | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/09.cpp) | 17-07-19 | -
 
 ## Queue
 S.No. | Problem | Solution | Date | References
