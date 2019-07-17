@@ -1,4 +1,33 @@
-// Stock Span Problem
+// Stock Span Problem (Using Stacks)
+/*
+    Problem Statement:
+        Given a list of prices of a single stock for N number of days, find stock span for each day.
+        Stock span is defined as a number of consecutive days prior to the current day when the price
+        of a stock was less than or equal to the price at current day.
+*/
+/*
+    There can be 2 approaches to solve this problem-
+    APPROACH - 1 O(n^2) [INEFFICIENT SOLUTION]
+        This uses the concept of nested loops. In this the outer loop works from 0 to n-1
+        We pick every element and then run a loop from that position to the beginning of the loop.
+        int prices[] = {10,5,2,7,18,15,16,17};
+        int stockSpan[n] = {0};
+        int count = 0;
+        for(int i=0;i<n;i++){
+            count = 1;
+            for(int j=i-1;j>=0;j--){
+                if(arr[j]>=arr[j])
+                    count++;
+                else
+                    break;
+            }
+            stockSpan[i] = count;
+        }
+
+    APPROACH - 2 O(n) [EFFICIENT SOLUTION]
+        This approach uses the Stack Data Structure
+        In this program this approach is implemented.
+ */
 #include<iostream>
 #include<stack>
 using namespace std;
