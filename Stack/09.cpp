@@ -44,9 +44,14 @@ void calculateStockSpan(int price[], int n){
     st.push(0); // We pushed the index of the first element of the array price[].
 
     for(int i=1;i<n;i++){
+        /*  
+            Whenever an element (price[st.top()]) just before the current element(price[i]) is less than or equal to price[i],
+            We pop that element (price[st.top()]) & keep popping until Either the Stack is empty or it is less than the current element.
+        */
         while(!st.empty() && price[st.top()] <= price[i])
             st.pop();
         
+        // Now we store the span of price[i] element in stockSpan[i]
         if(!st.empty())
             stockSpan[i] = i - st.top();
         else
@@ -56,6 +61,7 @@ void calculateStockSpan(int price[], int n){
             stockSpan[i] = (!st.empty()) ? (i-st.top()):(i+1);
         */
 
+       // Every element is pushed in the Stack
        st.push(i);
     }
     printStockSpan(stockSpan,n);
