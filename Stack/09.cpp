@@ -27,6 +27,9 @@
     APPROACH - 2 O(n) [EFFICIENT SOLUTION]
         This approach uses the Stack Data Structure
         In this program this approach is implemented.
+        =>  Although because of 2 Loops it seems that it's complexity is O(n^2) BUT,
+            if we see closely, we'll notice that we're pushing and popping each element exactly once,
+            AND Stack PUSH and POP elements have O(1) Time Complexity.
  */
 #include<iostream>
 #include<stack>
