@@ -1,9 +1,13 @@
-// "Next Greatest Element" OR "Nearest Greatest Eleemnt on Right Side"
+// "Next Greater Element" OR "Nearest Greater Element on Right Side"
 /*
     PROBLEM STATEMENT
     Given an array, print the Next Greater Element (NGE) for every element. 
     The Next greater Element for an element x is the first greater element on the right side of x in array. 
     Elements for which no greater element exist, consider next greater element as -1.
+
+    Example:
+    I/P: arr[] = {5,10,7,8,3,2,12}
+    O/P: ans[] = {10,12,8,12,12,12,-1}
 */
 /*
     APPROACH-1 (Naive Approach) O(n^2)
