@@ -146,7 +146,7 @@ S.No. | Problem | Solution | Date | References
 9 | Stock Span Problem | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/09.cpp) | 17-07-19 | -
 10 | Previous Greater Element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/10.cpp) | 19-07-19 | -
 11 | Next Smaller Element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/11.cpp) | 19-07-19 | -
-12 | Previous Smaller Element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/12.cpp) | - | -
+12 | Previous Smaller Element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/12.cpp) | 19-07-19 | -
 
 ## Queue
 S.No. | Problem | Solution | Date | References
