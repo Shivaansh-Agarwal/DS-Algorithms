@@ -149,7 +149,7 @@ S.No. | Problem | Solution | Date | References
 12 | Previous Smaller Element | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/12.cpp) | 19-07-19 | -
 13 | Remove Consecutive Duplicates | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/13.cpp) | 20-07-19 | -
 14 | Remove Paired Duplicates | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/14.cpp) | 21-07-19 | -
-15 | Print Minimum of Stack at each Pop Operation | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/14.cpp) | 21-07-19 | -
+15 | Print Minimum of Stack at each Pop Operation | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Stack/15.cpp) | 21-07-19 | -
 
 ## Queue
 S.No. | Problem | Solution | Date | References
