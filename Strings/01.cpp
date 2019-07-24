@@ -2,6 +2,10 @@
     PROBLEM STATEMENT
     Given 2 strings, check if they're anagrams of each others.
     (HINT: Anagram means if the frequency of characters in both strings is same)
+
+    I/P: s1="gfg"       I/P: s1 = "gfgg"        I/P: s1="fff"
+         s2="ggf"            s2 = "gfg"              s2="trf"
+    O/P: YES            O/P: NO                 O/P: NO
 */
 #include<iostream>
 #include<string>
