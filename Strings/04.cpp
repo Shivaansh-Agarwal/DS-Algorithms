@@ -17,6 +17,9 @@
 #include<iostream>
 #include<string>
 using namespace std;
+/** 
+ * Function for Calculating factorial
+**/
 int factorial(int n){
     int p = 1;
     if(n==0 || n==1)
@@ -27,39 +30,52 @@ int factorial(int n){
     }
     return p;
 }
-int getLexicographicRank(string s){
-    // Function for strings which contain no Repeating character
-    
-    // Count array to store which characters are present in the String
-    int count[256] = {0};
-    for(int i=0;i<s.length();i++)
-        count[s[i]]+=1;
-    
-    // Cumulative Frequency Array to store the frequency of how many charcaters, which are present in the string,
-    // are smaller than the character.
-    int cumulFreq[256] = {0};
+// Cumulative Frequency Array to store the frequency of how many charcaters, which are present in the string,
+// are smaller than the character.
+int *calculateCumulativeFreq(int count[]){
+    static int cumulFreq[256] = {0};
     int temp = 0;
-    if(count[0]==1)
+    if (count[0] == 1)
         temp = 1;
-    for(int i=1;i<256;i++){
-        if(count[i]==1){
+    for (int i = 1; i < 256; i++){
+        if (count[i] == 1){
             cumulFreq[i] = temp;
             temp++;
         }
     }
+    return cumulFreq;
+}
+/** 
+ * Function to return Lexographic Rank for strings which contain no Repeating character
+**/
+int getLexicographicRank(string s){
+    // Count array to store which characters are present in the String
+    int count[256] = {0};
+    for(int i=0;i<s.length();i++)
+        count[s[i]]+=1;
     /*
     for(int i=0;i<256;i++)
         cout<<cumulFreq[i]<<" ";
     */
-
+    int *cumulFreq = calculateCumulativeFreq(count);
     int n = s.length();
     int smaller,fact,sum = 0;
     for(int i=0;i<n-1;i++){
-        smaller = cumulFreq[s[i]];
-        fact = factorial(n-(i+1));
+        // When s[i] is not put
+        smaller = cumulFreq[s[i]];  //Number of elememts smaller than s[i]
+        fact = factorial(n-(i+1));  //Factorial of number of spaces left in the string.
         sum = smaller*fact + sum;
-    }
 
+        // When s[i] is put at it's position
+        count[s[i]] = 0;
+        cumulFreq = calculateCumulativeFreq(count);
+        /* 
+        cout<<"After Deleting "<<s[i];
+        for(int i=0;i<256;i++)
+            cout<<cumulFreq[i]<<" ";
+        */
+        continue;
+    }
     return sum+1;
 }
 int main(){
