@@ -124,7 +124,7 @@ S.No. | Problem | Solution | Date | References
 1 | Check if 2 Strings are ANAGRAMS of each other | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/01.cpp) | 24-07-19 | -
 2 | Given a String find the first repeating character | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/02.cpp) | 24-07-19 | -
 3 | Given a String Find the First Non-Repeating Character | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/03.cpp) | 25-07-19 | -
-4 | Given a String Find the Lexicographic Rank of it among all its Permutations(NOT COMPLETE) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/04.cpp) | 25-07-19 | -
+4 | Given a String Find the Lexicographic Rank of it among all its Permutations | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/04.cpp) | 25-07-19 | -
 ## Linked List
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
