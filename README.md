@@ -125,7 +125,12 @@ S.No. | Problem | Solution | Date | References
 2 | Given a String find the first repeating character | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/02.cpp) | 24-07-19 | -
 3 | Given a String Find the First Non-Repeating Character | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/03.cpp) | 25-07-19 | -
 4 | Given a String Find the Lexicographic Rank of it among all its Permutations | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/04.cpp) | 25-07-19 | -
-5 | Anagram Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/05.cpp) | 26-07-19 | -
+5 | Anagram Search | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/05.cpp) | 29-07-19 | -
+6 | Pattern Searching (Naive String Matching Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/06.cpp) | - | -
+7 | Pattern Searching (Rabin Karp Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/07.cpp) | - | -
+8 | Pattern Searching (KMP(Knuth Morris Pratt) Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/08.cpp) | - | -
+9 | Pattern Searching (Suffix Tree Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/09.cpp) | - | -
+10 | Check whether 2 strings are rotations of each other or not | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/10.cpp) | - | 29-07-19
 ## Linked List
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
