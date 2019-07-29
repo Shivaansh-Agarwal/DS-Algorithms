@@ -66,7 +66,7 @@ int getLexicographicRank(string s){
         fact = factorial(n-(i+1));  //Factorial of number of spaces left in the string.
         sum = smaller*fact + sum;
 
-        // When s[i] is put at it's position
+        // When s[i] is put at it's position, i.e. is cannot be used further
         count[s[i]] = 0;
         cumulFreq = calculateCumulativeFreq(count);
         /* 
