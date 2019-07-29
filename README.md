@@ -130,7 +130,7 @@ S.No. | Problem | Solution | Date | References
 7 | Pattern Searching (Rabin Karp Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/07.cpp) | - | -
 8 | Pattern Searching (KMP(Knuth Morris Pratt) Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/08.cpp) | - | -
 9 | Pattern Searching (Suffix Tree Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/09.cpp) | - | -
-10 | Check whether 2 strings are rotations of each other or not | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/10.cpp) | - | 29-07-19
+10 | Check whether 2 strings are rotations of each other or not | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/10.cpp) | 29-07-19 | -
 ## Linked List
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
