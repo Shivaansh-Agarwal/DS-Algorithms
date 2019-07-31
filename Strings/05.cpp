@@ -11,30 +11,41 @@
 #include<algorithm>
 using namespace std;
 bool anagramSearch(string txt, string pat){
-    //First I'll make the count array of string 'pat'
     int n = txt.length();
     int m = pat.length();
     int count_pat[256] = {0};
     int count_txt[256] = {0};
-    bool ans = false;
-    for(int i=0;i<m;i++)
+    bool ans;
+    for(int i=0;i<m;i++){
         count_pat[pat[i]]++;
-    for(int i=0;i<n-m;i++){
-        std::fill_n(count_txt, 256, 0); // #include<algorithm>
-        for(int j=i;j<i+m;j++){
-            // This loop will be run m times to make the count array of `m` characters in `txt` String.
-            count_txt[txt[j]]++;
+        count_txt[txt[i]]++;
+    }
+    ans = true;
+    for(int i=0;i<256;i++){
+        // This loop has time complexity of O(1) since the number of iterations are fixed.
+        if(count_pat[i]!=count_txt[i]){
+            ans = false;
+            break;
         }
+    }
+    if(ans){
+        cout<<"Anagram starts from index: 0"<<" ";
+        return ans;
+    }
+    for(int i=1;i<n-m;i++){
+        count_txt[txt[i-1]] -=1 ;
+        count_txt[txt[i+m-1]]+=1;
         ans = true;
         for(int j=0;j<256;j++){
             if(count_pat[j]!=count_txt[j]){
                 ans = false;
                 break;
-            }
+            } 
         }
-        // if pattern is found in the text then ans=true else false;
-        if(ans)
+        if(ans){
+            cout<<"Anagram starts from index: "<<i<<" ";
             break;
+        }
         else
             continue;
     }
