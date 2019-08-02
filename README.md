@@ -117,9 +117,9 @@ S.No. | Problem | Solution | Date | References
 ## Hashing
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
-1 | Given an array find the most frequent element. | - | 02-08-19 | -
+1 | Given an array find the most frequent element. | https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/01.cpp | 02-08-19 | -
 2 | Given an array find if there is a subarray with 0 sum. | - | 02-08-19 | -
-3 | Given an array, print the frequency of every element. | - | 02-08-19 | -
+3 | Given an array, print the frequency of every element. | https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/03.cpp | 02-08-19 | -
 
 ## Strings
 S.No. | Problem | Solution | Date | References
