@@ -48,6 +48,6 @@ int main(){
     for(int i=0;i<n;i++)
         cin>>arr[i];
     int* ans = find_max(arr,n);
-    cout<<"Maximum Element: "<<ans[0]<<" has frequency: "<<ans[1];
+    cout<<"Element "<<ans[0]<<" maximum frequency of: "<<ans[1];
     return 0;
 }
