@@ -118,8 +118,8 @@ S.No. | Problem | Solution | Date | References
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Given an array find the most frequent element. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/01.cpp) | 02-08-19 | -
-2 | Given an array find if there is a subarray with 0 sum.(Naive Solution O(n^2)) | 05-08-19 | - | -
-3 | Given an array find if there is a subarray with 0 sum.(Optimal Solution O(n^2)) | 05-08-19 | - | -
+2 | Given an array find if there is a subarray with 0 sum.(Naive Solution O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/02.cpp) | 05-08-19 | -
+3 | Given an array find if there is a subarray with 0 sum.(Optimal Solution O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/03.cpp) | 05-08-19 | -
 4 | Given an array, print the frequency of every element. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/04.cpp) | 02-08-19 | -
 5 | Given an array and a sum x find if there is subarray where sum is aqual to x | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/05.cpp) | - | -
 6 | Find the largest sub-array with given sum | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/06.cpp) | - | -
