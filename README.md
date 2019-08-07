@@ -127,6 +127,7 @@ S.No. | Problem | Solution | Date | References
 8 | Find the largest sub-array with 0 sum | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/08.cpp) | - | -
 9 | Find the smallest sub-array with 0 sum | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/09.cpp) | - | -
 10 :bulb: | Given a binary array find length of the largest subarray having equal number of 0's and 1's | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/10.cpp) | - | -
+11 | Given an unsorted array and a number x, find if there is a pair with sum x | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/11.cpp) | - | -
 
 ## Strings
 S.No. | Problem | Solution | Date | References
@@ -141,6 +142,7 @@ S.No. | Problem | Solution | Date | References
 8 | Pattern Searching (KMP(Knuth Morris Pratt) Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/08.cpp) | - | -
 9 | Pattern Searching (Suffix Tree Algorithm) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/09.cpp) | - | -
 10 | Check whether 2 strings are rotations of each other or not | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Strings/10.cpp) | 29-07-19 | -
+
 ## Linked List
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
