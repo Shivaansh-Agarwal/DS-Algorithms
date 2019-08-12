@@ -126,7 +126,7 @@ S.No. | Problem | Solution | Date | References
 7 | Find the smallest sub-array with given sum | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/07.cpp) | 06-08-19 | -
 8 | Find the largest sub-array with 0 sum | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/08.cpp) | 08-08-19 | -
 9 | Find the smallest sub-array with 0 sum | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/09.cpp) | 08-08-19 | -
-10 :bulb: | Given a binary array find length of the largest subarray having equal number of 0's and 1's | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/10.cpp) | - | -
+10 :bulb: | Given a binary array find length of the largest subarray having equal number of 0's and 1's | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/10.cpp) | 11-08-19 | -
 11 | Given an unsorted array and a number x, find if there is a pair with sum x | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Hashing/11.cpp) | 09-08-19 | -
 
 ## Strings
