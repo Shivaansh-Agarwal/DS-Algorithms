@@ -115,10 +115,10 @@ S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Print the matrix in the Sanke Pattern | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/01.cpp) | 12-08-19 | -
 2 | Transpose of a Matrix | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/02.cpp) | 12-08-19 | -
-3 | Rotate a Matrix | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/03.cpp) | 13-08-19 | -
-4 | Search an element in a row wise and column-wise sorted Matrix| [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/04.cpp) | 13-08-19 | -
+3 :bulb:| Rotate a Matrix | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/03.cpp) | 13-08-19 | -
+4 :bulb:| Search an element in a row wise and column-wise sorted Matrix| [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/04.cpp) | 13-08-19 | -
 5 | Given a matrix Print the Boundary elements | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/05.cpp) | - | -
-6 | Given a matrix Print the elements in Spiral Order | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/06.cpp) | - | -
+6 :bulb:| Given a matrix Print the elements in Spiral Order | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/06.cpp) | - | -
 7 :bulb: | Matrix Multiplication | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/07.cpp) | - | -
 
 ## Hashing
