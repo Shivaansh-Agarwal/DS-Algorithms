@@ -109,7 +109,7 @@ S.No. | Problem | Solution | Date | References
 ## Sorting
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
-1 | Bubble Sort | https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/01.cpp | 20/08/19 | -
+1 | Bubble Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/01.cpp) | 20/08/19 | -
 2 | Selection Sort | - | - | -
 3 | Insertion Sort | - | - | - 
 4 | Heap Sort | - | - | -
