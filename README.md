@@ -109,6 +109,16 @@ S.No. | Problem | Solution | Date | References
 ## Sorting
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Bubble Sort | - | - | -
+2 | Selection Sort | - | - | -
+3 | Insertion Sort | - | - | - 
+4 | Heap Sort | - | - | -
+5 | Merge Sort | - | - | -
+6 | Quick Sort | - | - | -
+7 | Counting Sort | - | - | -
+8 | Cycle Sort | - | - | -
+9 | Radix Sort | - | - | - 
+10 | Shell Sort | - | - | -
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
@@ -120,6 +130,8 @@ S.No. | Problem | Solution | Date | References
 5 | Given a matrix Print the Boundary elements | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/05.cpp) | 14-08-19 | -
 6 :bulb:| Given a matrix Print the elements in Spiral Order | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/06.cpp) | - | -
 7 :bulb: | Matrix Multiplication | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/07.cpp) | - | -
+8 :bulb:| Determinant of a Matrix | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/08.cpp) | - | -
+9 | Implementation of a 2D Matrix (Using C++ Vectors) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Matrix/09.cpp) | - | -
 
 ## Hashing
 S.No. | Problem | Solution | Date | References
