@@ -109,6 +109,16 @@ S.No. | Problem | Solution | Date | References
 ## Sorting
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Bubble Sort | - | - | -
+2 | Selection Sort | - | - | -
+3 | Insertion Sort | - | - | - 
+4 | Heap Sort | - | - | -
+5 | Merge Sort | - | - | -
+6 | Quick Sort | - | - | -
+7 | Counting Sort | - | - | -
+8 | Cycle Sort | - | - | -
+9 | Radix Sort | - | - | - 
+10 | Shell Sort | - | - | -
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
