@@ -21,7 +21,7 @@ void swap(int *lastUnsorted, int *max){
     *max = *lastUnsorted;
     *lastUnsorted = temp;
 }
-void insertionSort(int arr[], int n){
+void selectionSort(int arr[], int n){
     int max,loc,temp;
     int j;
     for(int i=0;i<n-1;i++){
@@ -43,6 +43,6 @@ int main(){
     cout<<"Enter the number of elements you want to enter: ";
     cin>>n;
     int *arr = getInput(n);
-    insertionSort(arr,n);
+    selectionSort(arr,n);
     printArray(arr,n);
 }
