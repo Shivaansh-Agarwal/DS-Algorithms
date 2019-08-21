@@ -110,8 +110,8 @@ S.No. | Problem | Solution | Date | References
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
 1 | Bubble Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/01.cpp) | 20/08/19 | -
-2 | Selection Sort | - | - | -
-3 | Insertion Sort | - | - | - 
+2 | Selection Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/02.cpp) | 21/08/19 | -
+3 | Insertion Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/03.cpp) | 21/08/19 | - 
 4 | Heap Sort | - | - | -
 5 | Merge Sort | - | - | -
 6 | Quick Sort | - | - | -
