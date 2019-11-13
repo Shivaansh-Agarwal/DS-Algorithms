@@ -200,7 +200,7 @@ S.No. | Problem | Solution | Date | References
 ## Tree
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
-1 | Basic Tree Implementation with DFS Traversal(Java) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTree.java) | 03-10-19 | -
+1 | Basic Tree Implementation with DFS Traversal(Java) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/DFS/BinaryTree.java) | 03-10-19 | -
 
 ## Binary Search Tree
 S.No. | Problem | Solution | Date | References
