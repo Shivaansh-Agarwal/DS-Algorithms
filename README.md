@@ -206,6 +206,13 @@ S.No. | Problem | Solution | Date | References
 4 | Given a Binary Tree, find it's height | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeHeight.java) | 14-11-19 | -
 5 | Given a Binary Tree, check if it follows Children-Sum Property | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeChildrenSum.java) | 15-11-19 | -
 6 | Check if a Binary Tree is balanced or not | - | - | -
+7 | Given a Binary Tree, Print all nodes at level K | - | - | -
+8 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not | - | - | -
+9 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
+10 | Lowest Common Ancestor in a Binary Tree | - | - | -
+11 | Maximum Sum Root to Leaf Path | - | - | - 
+12 | Finding the Diameter of Binary Tree | - | - | -
+
 
 ## Binary Search Tree
 S.No. | Problem | Solution | Date | References
