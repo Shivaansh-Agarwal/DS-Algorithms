@@ -204,7 +204,7 @@ S.No. | Problem | Solution | Date | References
 2 | BFS or Level Order Traversal (Java) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeBFS.java) | 13-11-19 | -
 3 | Given a Binary Tree, print it's level order traversal such that each level is in new line | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BFS_Line_By_Line.java) | 14-11-19 | -
 4 | Given a Binary Tree, find it's height | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeHeight.java) | 14-11-19 | -
-5 | Given a Binary Tree, check if it follows Children-Sum Property | - | - | -
+5 | Given a Binary Tree, check if it follows Children-Sum Property | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeChildrenSum.java) | 15-11-19 | -
 6 | Check if a Binary Tree is balanced or not | - | - | -
 
 ## Binary Search Tree
