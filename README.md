@@ -205,7 +205,7 @@ S.No. | Problem | Solution | Date | References
 3 | Given a Binary Tree, print it's level order traversal such that each level is in new line | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BFS_Line_By_Line.java) | 14-11-19 | -
 4 | Given a Binary Tree, find it's height | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeHeight.java) | 14-11-19 | -
 5 | Given a Binary Tree, check if it follows Children-Sum Property | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeChildrenSum.java) | 15-11-19 | -
-6 | Check if a Binary Tree is balanced or not | - | - | -
+6 | Check if a Binary Tree is balanced or not | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BalancedBinaryTree.java) | 15-11-19 | -
 7 | Given a Binary Tree, Print all nodes at level K | - | - | -
 8 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not | - | - | -
 9 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
