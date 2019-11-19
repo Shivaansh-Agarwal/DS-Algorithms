@@ -17,7 +17,6 @@
 
     The Approach used here solves the problem in O(n^2) Time Complexity.
 */
-import java.io.*;
 
 class Node{
     int data;
