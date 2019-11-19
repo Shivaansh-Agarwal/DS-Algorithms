@@ -206,7 +206,7 @@ S.No. | Problem | Solution | Date | References
 4 | Given a Binary Tree, find it's height | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeHeight.java) | 14-11-19 | -
 5 | Given a Binary Tree, check if it follows Children-Sum Property | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeChildrenSum.java) | 15-11-19 | -
 6 | Check if a Binary Tree is Balanced or Not (O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BalancedBinaryTree.java) | 15-11-19 | -
-7 | Check if a Binary Tree is Balanced or Not (Optimal Solution O(n)) | - | - | -
+7 | Check if a Binary Tree is Balanced or Not (Optimal Solution O(n)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BalancedBinaryTreeOptimized.java) | 19-11-19 | [1](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/) [2](https://algorithms.tutorialhorizon.com/find-whether-if-a-given-binary-tree-is-balanced/)
 8 | Given a Binary Tree, Print all nodes at level K | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreePrintElemAtLevelK.java) | 16-11-19 | -
 9 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not | - | - | -
 10 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
