@@ -208,11 +208,12 @@ S.No. | Problem | Solution | Date | References
 6 | Check if a Binary Tree is Balanced or Not (O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BalancedBinaryTree.java) | 15-11-19 | -
 7 | Check if a Binary Tree is Balanced or Not (Optimal Solution O(n)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BalancedBinaryTreeOptimized.java) | 19-11-19 | [1](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/) [2](https://algorithms.tutorialhorizon.com/find-whether-if-a-given-binary-tree-is-balanced/)
 8 | Given a Binary Tree, Print all nodes at level K | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreePrintElemAtLevelK.java) | 16-11-19 | -
-9 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not | - | - | -
-10 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
-11 | Lowest Common Ancestor in a Binary Tree | - | - | -
-12 | Maximum Sum Root to Leaf Path | - | - | - 
-13 | Finding the Diameter of Binary Tree | - | - | -
+9 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Inefficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeCheckForBST.java) | 20-11-19 | -
+10 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Inefficient Method) | - | - | -
+11 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
+12 | Lowest Common Ancestor in a Binary Tree | - | - | -
+13 | Maximum Sum Root to Leaf Path | - | - | - 
+14 | Finding the Diameter of Binary Tree | - | - | -
 
 
 ## Binary Search Tree
