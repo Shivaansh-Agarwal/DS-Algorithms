@@ -210,6 +210,7 @@ S.No. | Problem | Solution | Date | References
 8 | Given a Binary Tree, Print all nodes at level K | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreePrintElemAtLevelK.java) | 16-11-19 | -
 9 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Inefficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeCheckForBST.java) | 20-11-19 | -
 10 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Efficient Method) | - | - | -
+11 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Using Inorder Traversal) | - | - | -
 11 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
 12 | Lowest Common Ancestor in a Binary Tree | - | - | -
 13 | Maximum Sum Root to Leaf Path | - | - | - 
