@@ -215,7 +215,7 @@ S.No. | Problem | Solution | Date | References
 12 | Lowest Common Ancestor in a Binary Tree | - | - | -
 13 | Maximum Sum Root to Leaf Path | - | - | - 
 14 | Finding the Diameter of Binary Tree | - | - | -
-
+15 | Check if given Preorder, Inorder and Postorder traversals are of same tree | - | - | -
 
 ## Binary Search Tree
 S.No. | Problem | Solution | Date | References
