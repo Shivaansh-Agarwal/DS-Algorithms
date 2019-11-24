@@ -210,13 +210,13 @@ S.No. | Problem | Solution | Date | References
 8 | Given a Binary Tree, Print all nodes at level K | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreePrintElemAtLevelK.java) | 16-11-19 | -
 9 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Inefficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeCheckForBST.java) | 20-11-19 | [1](https://www.youtube.com/watch?v=yEwSGhSsT0U)
 10 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Efficient Method) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/BinaryTreeCheckForBST2.java) | 21-11-19 | [1](https://www.youtube.com/watch?v=yEwSGhSsT0U)
-12 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Using Inorder Traversal) | - | - | -
-13 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
-14 | Lowest Common Ancestor in a Binary Tree | - | - | -
-15 | Maximum Sum Root to Leaf Path | - | - | - 
-16 | Finding the Diameter of Binary Tree | - | - | -
-17 | Check if given Preorder, Inorder and Postorder traversals are of same tree | - | - | -
-18 | [Left View of Binary Tree - Iterative Method using Queue](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/LeftViewOfBinaryTree.java) | 24-11-19 | [1](https://www.geeksforgeeks.org/iterative-method-to-print-left-view-of-a-binary-tree/)
+11 | Given a Binary Tree, Check whether it is Binary Search Tree (BST) or not (Using Inorder Traversal) | - | - | -
+12 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
+13 | Lowest Common Ancestor in a Binary Tree | - | - | -
+14 | Maximum Sum Root to Leaf Path | - | - | - 
+15 | Finding the Diameter of Binary Tree | - | - | -
+16 | Check if given Preorder, Inorder and Postorder traversals are of same tree | - | - | -
+17 | [Left View of Binary Tree - Iterative Method using Queue](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/LeftViewOfBinaryTree.java) | 24-11-19 | [1](https://www.geeksforgeeks.org/iterative-method-to-print-left-view-of-a-binary-tree/)
 
 ## Binary Search Tree
 S.No. | Problem | Solution | Date | References
