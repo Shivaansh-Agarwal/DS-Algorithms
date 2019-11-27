@@ -214,7 +214,7 @@ S.No. | Problem | Solution | Date | References
 12 | Given a Binary Tree, Convert it into a Double Linked List (In-Place) | - | - | -
 13 | Lowest Common Ancestor in a Binary Tree | - | - | -
 14 | Maximum Sum Root to Leaf Path | - | - | - 
-15 | Finding the Diameter of Binary Tree | - | - | -
+15 | Finding the Diameter of Binary Tree | - | 28-11-19 | -
 16 | Check if given Preorder, Inorder and Postorder traversals are of same tree | - | - | -
 17 | [Left View of Binary Tree - Iterative Method using Queue](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/LeftViewOfBinaryTree.java) | 24-11-19 | [1](https://www.geeksforgeeks.org/iterative-method-to-print-left-view-of-a-binary-tree/)
 
