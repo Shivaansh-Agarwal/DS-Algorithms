@@ -93,6 +93,7 @@ S.No. | Problem | Solution | Date | References
 12 :bulb: | Frequencies of Array elements in a Given Range | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/12.cpp) | 28-05-19 | -
 13 :bulb: | Given an Array arr of n elements, Find the position of an element of which sum of elements on LHS is equal to sum of elements on RHS | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/13.cpp) | 30-05-19 | -
 14 | Smallest Positive Missing Number from 1 to N in an Array of Size N, which can store any number. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/14.cpp) | 30-05-19 | -
+15 | Given an array, Find first continuous SubArray with Given Sum S | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/ContinuousSubArrayWithGivenSum.java) | 04-05-19 | [GFG](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)
 
 ## Searching
 S.No. | Problem | Solution | Date | References
