@@ -115,7 +115,7 @@ S.No. | Problem | Solution | Date | References
 3 | Insertion Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/03.cpp) | 21/08/19 | - 
 4 | Heap Sort | - | - | -
 5 | Merge Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/05.cpp) | 22/08/19 | -
-6 | Quick Sort | - | - | -
+6 | Quick Sort | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Quick%20Sort.java) | 28/01/2020 | -
 7 | Counting Sort | - | - | -
 8 | Cycle Sort | - | - | -
 9 | Radix Sort | - | - | - 
