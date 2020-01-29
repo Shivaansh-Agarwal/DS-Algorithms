@@ -120,6 +120,7 @@ S.No. | Problem | Solution | Date | References
 8 | Cycle Sort | - | - | -
 9 | Radix Sort | - | - | - 
 10 | Shell Sort | - | - | -
+11 | [Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Inversion%20Count.java) | 29/01/2020 | -
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
