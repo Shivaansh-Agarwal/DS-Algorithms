@@ -121,6 +121,7 @@ S.No. | Problem | Solution | Date | References
 9 | Radix Sort | - | - | - 
 10 | Shell Sort | - | - | -
 11 | [Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Inversion%20Count.java) | 29/01/2020 | -
+12 | [Union of 2 Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/376ef45410d4eabef99cfc44a1df60adf35202f7/Sorting/Union%20of%202%20Sorted%20Arrays.java) | 01/02/2020 | -
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
