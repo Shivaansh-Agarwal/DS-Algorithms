@@ -123,6 +123,7 @@ S.No. | Problem | Solution | Date | References
 11 | [Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Inversion%20Count.java) | 29/01/2020 | -
 12 | [Union of 2 Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/376ef45410d4eabef99cfc44a1df60adf35202f7/Sorting/Union%20of%202%20Sorted%20Arrays.java) | 01/02/2020 | -
 13 | [Intersection of 2 Sorted Arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-array/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Intersection%20of%202%20Sorted%20Arrays.java) | 01/02/2020 | -
+14 | [Count No of Triangles Possible](https://practice.geeksforgeeks.org/problems/count-possible-triangles/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Count%20Possible%20Triangles.java) | 03-02-2020 | [GFG](https://www.geeksforgeeks.org/find-number-of-triangles-possible/)
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
