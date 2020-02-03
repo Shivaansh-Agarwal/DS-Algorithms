@@ -124,6 +124,10 @@ S.No. | Problem | Solution | Date | References
 12 | [Union of 2 Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/376ef45410d4eabef99cfc44a1df60adf35202f7/Sorting/Union%20of%202%20Sorted%20Arrays.java) | 01/02/2020 | -
 13 | [Intersection of 2 Sorted Arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-array/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Intersection%20of%202%20Sorted%20Arrays.java) | 01/02/2020 | -
 14 | [Count No of Triangles Possible](https://practice.geeksforgeeks.org/problems/count-possible-triangles/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Count%20Possible%20Triangles.java) | 03-02-2020 | [GFG](https://www.geeksforgeeks.org/find-number-of-triangles-possible/)
+15 | [3 Way Partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Three%20Way%20Partitioning.java) | 03-02-2020 | -
+16 | [Find Triplets with 0 Sum](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Find%20Triplets%20with%200%20Sum.java) | 03-02-2020 | -
+17 | [Problem based on Counting Sort](https://practice.geeksforgeeks.org/problems/counting-sort/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Counting%20Sort%20Based%20Problem.java) | 03-02-2020 | -
+18 | [Closest 0's 1's 2's](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Closest%200s%201s%202s.java) | 03-02-2020 | -
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
