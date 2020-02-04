@@ -128,6 +128,7 @@ S.No. | Problem | Solution | Date | References
 16 | [Find Triplets with 0 Sum](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Find%20Triplets%20with%200%20Sum.java) | 03-02-2020 | -
 17 | [Problem based on Counting Sort](https://practice.geeksforgeeks.org/problems/counting-sort/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Counting%20Sort%20Based%20Problem.java) | 03-02-2020 | -
 18 | [Closest 0's 1's 2's](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Closest%200s%201s%202s.java) | 03-02-2020 | -
+19 | [Sort by Absolute Difference](https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference/1/?track=SPC-Sorting&batchId=135) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Sorting/Sort%20by%20Absolute%20Difference.java) | 04-02-2020 | :bulb: Sort an array based on another array using Comparator Interface
 
 ## Matrix
 S.No. | Problem | Solution | Date | References
