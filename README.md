@@ -79,21 +79,17 @@ S.No. | Problem | Solution | Date | References
 ## Arrays
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
-1 | Reversing an Array | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/01.cpp) | 25-05-19 | -
-2 | Rotating an Array (Naive Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/02.cpp) | 25-05-19 | -
-3 :bulb: | Rotating an Array (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 | -
-4 | Leaders in an Array (Naive Approach) O(n^2) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/04.cpp) | 26-05-19 | -
-5 :bulb: | Leaders in an Array (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 26-05-19 | -
-6 | Tapping Rainwater (Naive Approach) O(n^2) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp) | 26-05-19 | -
-7 :bulb: | Tapping Rainwater (Efficient Approach) O(n) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19 | -
-8 :bulb: | Stock Buy and Sell | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/08.cpp) | 26-05-19 | -
-9 | Reverse Arrays in Groups ((Naive Approach) O(n^2)) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/09.cpp) | 27-05-19 | -
-10 | Reverse Arrays in Groups (Efficient Approach) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/10.cpp) | 27-05-19 | -
-11 :bulb: | Maximum Occurred Integer in given Ranges | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/11.cpp) | 28-05-19 | -
-12 :bulb: | Frequencies of Array elements in a Given Range | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/12.cpp) | 28-05-19 | -
-13 :bulb: | Given an Array arr of n elements, Find the position of an element of which sum of elements on LHS is equal to sum of elements on RHS | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/13.cpp) | 30-05-19 | -
-14 | Smallest Positive Missing Number from 1 to N in an Array of Size N, which can store any number. | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/14.cpp) | 30-05-19 | -
-15 | Given an array, Find first continuous SubArray with Given Sum S | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/ContinuousSubArrayWithGivenSum.java) | 04-05-19 | [GFG](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)
+1 | Reversing an Array | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/01.cpp) | 25-05-19 | -
+2<br><br>3 :bulb: | Rotating an Array (Naive Approach)<br><br> Rotating an Array (Efficient Approach) | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/02.cpp)<br><br> [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/03.cpp) | 25-05-19 <br><br> 25-05-19 | -<br><br>-
+4<br><br>5 :bulb: | Leaders in an Array (Naive Approach) O(n^2) <br><br> Leaders in an Array (Efficient Approach) O(n) | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/04.cpp) <br><br> [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/05.cpp) | 26-05-19 <br><br> 26-05-19 | - <br><br> -
+6<br><br>7 :bulb: | Tapping Rainwater (Naive Approach) O(n^2)<br><br>Tapping Rainwater (Efficient Approach) O(n) | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/06.cpp)<br><br>[C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/07.cpp) | 26-05-19<br><br>26-05-19 | -<br><br>-
+8 :bulb: | Stock Buy and Sell | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/08.cpp) | 26-05-19 | -
+9<br><br>10 | Reverse Arrays in Groups ((Naive Approach) O(n^2))<br><br>Reverse Arrays in Groups (Efficient Approach) | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/09.cpp)<br><br>[C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/10.cpp) | 27-05-19<br><br>27-05-19 | -<br><br>-
+11 :bulb: | Maximum Occurred Integer in given Ranges | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/11.cpp) | 28-05-19 | -
+12 :bulb: | Frequencies of Array elements in a Given Range | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/12.cpp) | 28-05-19 | -
+13 :bulb: | Given an Array arr of n elements, Find the position of an element of which sum of elements on LHS is equal to sum of elements on RHS | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/13.cpp) | 30-05-19 | -
+14 | Smallest Positive Missing Number from 1 to N in an Array of Size N, which can store any number. | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/14.cpp) | 30-05-19 | -
+15 | Given an array, Find first continuous SubArray with Given Sum S | [C++](https://github.com/shiv-1998/DS-Algorithms/blob/master/Arrays/ContinuousSubArrayWithGivenSum.java) | 04-05-19 | [GFG](https://www.geeksforgeeks.org/find-subarray-with-given-sum/)
 
 ## Searching
 S.No. | Problem | Solution | Date | References
