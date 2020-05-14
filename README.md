@@ -20,6 +20,8 @@
 17. [Greedy][17]
 18. [BackTracking][18]
 19. [Dynamic Programming][19]
+20. [Graph (Advanced)][20]
+21. [Trie][21]
 
 [1]:#Mathematics
 [2]:#Bitwise-Algorithms
@@ -39,7 +41,9 @@
 [16]:#Graph
 [17]:#Greedy
 [18]:#Backtracking
-[19]:Dynamic-Programming
+[19]:#Dynamic-Programming
+[20]:#Graph-Advanced
+[21]:#Trie
 
 ## Mathematics
 S.No. | Problem | Solution | Date | Reference
@@ -225,6 +229,7 @@ S.No. | Problem | Solution | Date | References
 16 | Check if given Preorder, Inorder and Postorder traversals are of same tree | - | - | -
 17 | [Left View of Binary Tree - Iterative Method using Queue](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [:key:](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trees/LeftViewOfBinaryTree.java) | 24-11-19 | [1](https://www.geeksforgeeks.org/iterative-method-to-print-left-view-of-a-binary-tree/)
 
-## Binary Search Tree
+## Tire
 S.No. | Problem | Solution | Date | References
 --- | --- | --- | --- | ---
+1 | Insertion and Search in Trie | [JAVA](https://github.com/shiv-1998/DS-Algorithms/blob/master/Trie/Trie.java) | 14-05-2020 | -
